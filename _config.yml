@@ -1,14 +1,19 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Jason Quisberth's Github Pages Website
+email: 61quisberth@cardinalmail.cua.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Jason Quisberth, a software engineer from Northern Virginia. I gradated from The
+  Catholic University of America with degrees in Mechanical Engineering and Computer
+  Science. I work with C, C++, MATLAB, and Python professionally. Amateurly I play 
+  around with various web frameworks, languages, and libraries. My interests include 
+  embedded systems, computer graphics, robotics, computer vision, and web development.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://61quisberth.github.io" # the base hostname & protocol for your site
+twitter_username: Jaybaby00 
+github_username: 61quisberth 
+
+# Footer Info
+footer_title: Jason Quisberth's Github Pages Website
 
 # Build settings
 markdown: kramdown
