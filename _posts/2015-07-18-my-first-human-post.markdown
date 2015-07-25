@@ -2,8 +2,9 @@
 layout: post
 title:  "First Human Post!"
 date:   2015-07-18 10:50:16
-categories: jekyll update
+tags: intro
 ---
+{% include JB/setup %}
 
 My first post to this page. So far so good.
 
