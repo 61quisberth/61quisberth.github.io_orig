@@ -7,7 +7,6 @@ Personal Webpage Designed with Jekyll
 
 ## TODO
 
-* Personalize CSS
 * Handle static content better following best practices
 * Include Projects post
 * Include Resources tab
