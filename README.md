@@ -3,13 +3,18 @@
 # 61quisberth.github.io
 My Github Pages Static Website
 
-Personal Webpage Designed with Jekyll
+Personal Webpage Built with Jekyll
+
+## Instructions for use
+* Clone this repo
+* Install [Jekyll](http://jekyllrb.com/) 
+* Jekyll build 
+* Jekyll serve 
 
 ## TODO
 
-* Personalize CSS
+* CSS some more
 * Handle static content better following best practices
-* Include Projects post
 * Include Resources tab
 * Remove Description from config.yml
 

@@ -6,4 +6,4 @@ permalink: /resume/
 
 Below is a link to my resume in PDF format.
 
-EDIT: Resume in process of update to reflect current work (7/28/15)
+NOTE: Resume in process of update to reflect current work (7/31/15)
