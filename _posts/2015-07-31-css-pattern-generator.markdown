@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CSS patern generator"
+title:  "CSS pattern generator"
 date:   2015-07-31 11:05:16
 categories: jekyll update
 ---
